@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: ring-router:0.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ring-router/ring-router/0.2-SNAPSHOT/ring-router-0.2-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: clj-wamp:1.0.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/clj-wamp/clj-wamp/1.0.2/clj-wamp-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
